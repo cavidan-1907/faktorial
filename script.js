@@ -8,5 +8,4 @@ function faktoriyal(n) {
    
     }
   }
-  const netice=faktoriyal(6)
-  console.log(netice);
+  const netice=faktoriyal(78)
